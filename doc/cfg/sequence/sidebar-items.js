@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Separator","The separator symbol and mode of separation in a sequence, or `Null` for no separation."]],"struct":[["Sequence","Sequence rule representation."]]});
